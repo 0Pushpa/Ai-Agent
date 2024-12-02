@@ -1,5 +1,5 @@
 1 Navigate to the Project Directory
-Once cloned, your friend can navigate to the project directory:
+Once cloned, you can navigate to the project directory:
 cd Ai-Agent
 
 2. Set Up the Backend (FastAPI)
